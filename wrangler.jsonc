@@ -3,7 +3,8 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */
 {
-    "$schema": "node_modules/wrangler/config-schema.json",
+    "$schema": "node_modules/wrangl
+er/config-schema.json",
     "name": "navihive",
     "main": "worker/index.ts",
     "compatibility_date": "2025-04-05",
