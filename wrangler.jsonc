@@ -4,6 +4,7 @@
  */
 {
     "$schema": "node_modules/wrangler/config-schema.json",
+
     "name": "navihive",
     "main": "worker/index.ts",
     "compatibility_date": "2025-04-05",
